@@ -22,4 +22,5 @@
     <string name="divide">÷</string>
     <string name="slash">+/−</string>
     <string name="dot">.</string>
+    <string name="input_empty">Please input number</string>
 </resources>
